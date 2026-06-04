@@ -1,4 +1,4 @@
-# workflowo for this template
+# workflow for this template
 
 First step after templating and cloning this template
 ```text
