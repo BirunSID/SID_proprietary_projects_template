@@ -13,6 +13,7 @@ When creating a new project from this template under **SID-LabX**:
 4. Uncheck **"Require approvals"** (so you can merge your own code).
 5. Check **"Require status checks to pass before merging"** ➔ search and select **`CLAAssistant`**.
 6. Click **Save changes**.
+7. voila!
 
 > [!NOTE]
 > All other security settings (Secret Scanning, Push Protection, Dependabot, CodeQL, and CLA enforcement) are 100% automatic and inherited from `SID-LabX`!
@@ -30,6 +31,5 @@ We welcome contributions! Please review [CONTRIBUTING.md](CONTRIBUTING.md) and n
 ## License
 
 This project is licensed under the terms of the [PROPRIETARY SOURCE-AVAILABLE LICENSE](LICENSE).
-
 
 ---
